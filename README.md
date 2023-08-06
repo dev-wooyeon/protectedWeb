@@ -2,7 +2,7 @@
 
 비트캠프 118기 팀프로젝트입니다.<br>
 #### 구성인원 : 5인<br>
-#### 개발기간 : 2019년 06월 ~ 2019년 08월<br>
+#### 개발기간 : 2019년 06월 ~ 2019년 08월 (3개월)<br>
 
 ## 개요
 반려견의 입양·분양, 스토리펀딩, 커뮤니티 기능과 관련정보, 상품 판매를 회원들에게 제공함으로써 유기견 없는 사회를 실현하고자 하는 시스템입니다.
@@ -15,10 +15,10 @@
 <b>BE</b><br/>
 * JAVA 1.8
 * Oracle 11g
-* MyBatis 3.2.1, , JDBC, Oracle DB Scheduler
+* MyBatis 3.2.1, JDBC, Oracle DB Scheduler
 * Apache Tomcat 9.0.21
-* Spring 4.0.9, AOP(Aspectj)
-* JUnit4, Log4jdbc, JSON-simple, Jackson
+* Spring 4.0.9, AOP
+* JUnit4, Log4j, JSON
 * Node.js, NPM, Socket.io, Express
 
 ## API 
